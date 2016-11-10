@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I like to hear myself talk and occasionally people actually want to hear it.  Here, I can embrace the olden days of WORM media.
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
@@ -18,6 +18,6 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ### Links
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
+- [Read more AMAs](https://github.com/fool/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
