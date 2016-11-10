@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I like to hear myself talk and occasionally people actually want to hear it.  Here, I can embrace the olden days of WORM media.
+I like to hear myself talk and occasionally people actually want to hear it.  Here, I can embrace the olden days of WORM media.  Go read about it on a gopher server or something.
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
