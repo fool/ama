@@ -6,8 +6,6 @@ I like to hear myself talk and occasionally people actually want to hear it.  He
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
--
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
