@@ -1,0 +1,4 @@
+[build]
+    base = "backend"
+    publish = "backend/dist"
+    functions = "backend/netlify-functions-dist/"
