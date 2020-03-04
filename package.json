@@ -1,0 +1,10 @@
+{
+  "name": "noname",
+  "version": "3.14.15",
+  "description": "An example module to illustrate the usage of a package.json",
+  "author": "chris <chrism@netlify.com>",
+  "dependencies": {
+    "netlify-lambda": "^1.6.3",
+  },
+  "license": "MIT"
+}
